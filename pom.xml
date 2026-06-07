@@ -6,7 +6,7 @@
 
     <groupId>com.barkas</groupId>
     <artifactId>BarkasProjectDPBO</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>3.5.7</version>
     <packaging>jar</packaging>
 
     <name>Barkas Project DPBO</name>
